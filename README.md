@@ -3,6 +3,7 @@ Arrays in Mips
 
 Question1
 take n(integer) and take n lines of strings and print then in reverse
+
 Question2
 accept the sum as a string(numbers separeted by "+") and print out the sum
 
